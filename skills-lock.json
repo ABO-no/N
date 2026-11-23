@@ -15,6 +15,48 @@
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
     },
+    "roblox-building": {
+      "source": "tabooharmony/roblox-brain",
+      "commit": "ceee4aaa5004502e2a51d78b3c33bba44d84742b",
+      "sourceType": "github",
+      "skillPath": "skills/gameplay/roblox-building/SKILL.md",
+      "computedHash": "cd0e4999cef45fd2e27a8a1f12158d66df3d0fffb175e138a7bc6cf428512a3d"
+    },
+    "roblox-lighting": {
+      "source": "tabooharmony/roblox-brain",
+      "commit": "ceee4aaa5004502e2a51d78b3c33bba44d84742b",
+      "sourceType": "github",
+      "skillPath": "skills/gameplay/roblox-lighting/SKILL.md",
+      "computedHash": "f04ab90dc2dd02fdf3ebba608aa283ad0baaeacd532fbc2b446455dea6a3706b"
+    },
+    "roblox-luau": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "commit": "c6ca6c41c839b68319ffc08430b99ab768debc32",
+      "sourceType": "github",
+      "skillPath": "skills/other-engines/roblox-luau/SKILL.md",
+      "computedHash": "07d757c3fad5c70e4643686195b56f5b792cf792bd9c994a04c2d74811f601e6"
+    },
+    "roblox-physics": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "commit": "c6ca6c41c839b68319ffc08430b99ab768debc32",
+      "sourceType": "github",
+      "skillPath": "skills/other-engines/roblox-physics/SKILL.md",
+      "computedHash": "4586dc52f97c72a46b8cb1197abb2e04fc3b2dee1a54d1c554eac90c4ef374e7"
+    },
+    "roblox-studio-workflow": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "commit": "c6ca6c41c839b68319ffc08430b99ab768debc32",
+      "sourceType": "github",
+      "skillPath": "skills/other-engines/roblox-studio-workflow/SKILL.md",
+      "computedHash": "7cf3a90fffe2492a736e721dc135fa51fc0bd0fe40fa67e532e0f54440f28604"
+    },
+    "roblox-world-building": {
+      "source": "el4cteo/roblox-skills",
+      "commit": "cac3ce045f49630f13b76f45c452d1f96e910d50",
+      "sourceType": "github",
+      "skillPath": "skills/roblox-world-building/SKILL.md",
+      "computedHash": "19b05020de557415cb7152729463b988f19ee267999fdb60a15efe14a423e190"
+    },
     "vercel-cli-with-tokens": {
       "source": "vercel-labs/agent-skills",
       "commit": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
